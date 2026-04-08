@@ -53,6 +53,11 @@ The 2009 contraction is the most notable period — likely tied to the global fi
 Recovery was evident in 2010, though 2011 saw a slight pullback, suggesting the business has not yet returned to 2007/2008 peak levels.
 Comparison of Revenue (Excl. SV Bikes) vs Revenue_Excl_SVB_PY across years shows a widening gap in recent years — meaning SV Bikes are becoming a less significant portion of revenue, and core products are growing.
 
+# Dashboard 
+<img width="1289" height="731" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/a7ffb438-25ee-4f60-90f8-ffe86e022f58" />
+<img width="1291" height="731" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/0c9ce065-24f1-4c99-a912-0c2fa07b582c" />
+<img width="1292" height="728" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/bfc92d1e-2685-46f0-a0dc-318f9e3a15dd" />
+
 ## Recommendations
 
 Strategic Focus Areas:
@@ -72,9 +77,6 @@ Monitor EBI (E-Bikes) as a Future Growth Driver E-Bikes currently contribute ~$2
 Air Pump Volume vs Margin Audit While Air Pumps lead in quantity, ensure their contribution margin justifies supply chain investment. If margins are thin, consider upselling accessory bundles.
 
 Address Revenue Stagnation Post-2009 The business has not fully recovered to 2007–2008 levels. Evaluate pricing strategy, new market entry, and channel diversification to reignite top-line growth.
-
-# Dashboard 
-
 
 ## Notes
 All revenue figures are reported in USD unless otherwise stated. EUR equivalents are available in the dataset.

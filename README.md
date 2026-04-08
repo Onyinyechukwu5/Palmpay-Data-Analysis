@@ -10,7 +10,7 @@ This project presents a multi-page Power BI analysis of Palmpay's sales data spa
 
 1. Revenue Performance
 Total revenue reached $285.3M, representing a 24.77% year-over-year increase from the prior year's $228.6M — a strong growth signal indicating business recovery or market expansion.
-When Special Vehicle (SV) Bikes are excluded, revenue stands at $267.48M, still up 26.86% YoY, confirming that core product lines are the primary growth drivers.
+When Silicon Valley (SV) Bikes are excluded, revenue stands at $267.48M, still up 26.86% YoY, confirming that core product lines are the primary growth drivers.
 Month-over-month revenue change is modest at +$1.06M (+0.40%), suggesting growth has stabilized and may need catalysts to accelerate further.
 
 2. Profit Trends by Country

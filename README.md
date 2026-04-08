@@ -25,36 +25,32 @@ January and February are the weakest months (~5M and 9M respectively), suggestin
 A secondary uptick appears in March–April (13M–37M), possibly driven by spring buying behaviour.
 Strategic Implication: Inventory, marketing, and staffing should be scaled in anticipation of the May–July demand spike.
 
-4. Product Category Analysis
-   
+4. Product Category Analysis   
 Product Category:
 TOU dominates profitability, accounting for the largest share at ~$63M — nearly 50% more than the next category.
 EBI, ACC, and TRE are underperforming categories and may require product restructuring, promotional support, or discontinuation review.
 The revenue by product category over time (2007–2011) shows TOU consistently leading, while ORB and ROB maintain relatively stable revenue contributions.
 
-6. Sales Quantity by Product
-   
+5. Sales Quantity by Product   
 Top-selling products by quantity:
 Air Pump leads in volume but is an accessory — likely a high-frequency, low-margin item.
 Deluxe Road Bike and Men's Off Road Bike variants are strong mid-tier performers combining volume with higher unit prices.
 The Fixed Gear Bike Plus was identified as the flop product, signalling weak demand that warrants a pricing or positioning review.
 
-7. Geographic Performance
-   
+6. Geographic Performance   
 Cities ranked by Average Off-Road % (a proxy for off-road product adoption):
 Grand Rapids and Anklam show extraordinarily high off-road product adoption — potential candidates for targeted off-road marketing campaigns.
 German cities (Anklam, Magdeburg, Bochum) feature prominently, consistent with Germany's stronger profit performance.
 US cities (Philadelphia, Irvine, Chicago, Atlanta) show moderate off-road demand, suggesting opportunity for deeper market penetration.
 
-8. Year-over-Year Growth
-   
+7. Year-over-Year Growth   
 Revenue trend by year:
 The 2009 contraction is the most notable period — likely tied to the global financial crisis.
 Recovery was evident in 2010, though 2011 saw a slight pullback, suggesting the business has not yet returned to 2007/2008 peak levels.
 Comparison of Revenue (Excl. SV Bikes) vs Revenue_Excl_SVB_PY across years shows a widening gap in recent years — meaning SV Bikes are becoming a less significant portion of revenue, and core products are growing.
 
 # Dashboard 
-<img width="1289" height="731" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/a7ffb438-25ee-4f60-90f8-ffe86e022f58" />
+<img width="1289" height="731" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/8f15d3cd-6fca-423b-b6d7-7b8152805efa" />
 <img width="1291" height="731" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/0c9ce065-24f1-4c99-a912-0c2fa07b582c" />
 <img width="1292" height="728" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/bfc92d1e-2685-46f0-a0dc-318f9e3a15dd" />
 

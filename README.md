@@ -50,11 +50,10 @@ Recovery was evident in 2010, though 2011 saw a slight pullback, suggesting the 
 Comparison of Revenue (Excl. SV Bikes) vs Revenue_Excl_SVB_PY across years shows a widening gap in recent years — meaning SV Bikes are becoming a less significant portion of revenue, and core products are growing.
 
 # Dashboard 
-<img width="1284" height="723" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/8604d408-5905-4da9-88d1-8d475e1c1dbb" />
-
 <img width="1289" height="731" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/8f15d3cd-6fca-423b-b6d7-7b8152805efa" />
 <img width="1291" height="731" alt="Screenshot (293)" src="https://github.com/user-attachments/assets/0c9ce065-24f1-4c99-a912-0c2fa07b582c" />
 <img width="1292" height="728" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/bfc92d1e-2685-46f0-a0dc-318f9e3a15dd" />
+
 
 ## Recommendations
 
